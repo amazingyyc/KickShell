@@ -6,7 +6,7 @@ Simple Mac APP, use StatusBar-click instead of writing shell command.
 2: Click "Add" button to add a item and Click "Finish" button to save.
 ```
 Terminal: Which Termianl that want to use. Support iTerm2 and System Terminal.
-Title: the title of this item.
+Title: The title of this item.
 Path: Which path that run the shell command.
 Command: The shell command.
 ```
